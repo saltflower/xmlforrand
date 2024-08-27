@@ -1,13 +1,13 @@
 <full>
   <race para="true">
-    <Alien></Alien>
-    <Human></Human>
-    <Cyborg></Cyborg>
+    <Alien weight=3></Alien>
+    <Huma weight=3></Human>
+    <Cyborg weight=5></Cyborg>
   </race>
   <name para="true">
-    <John></John>
-    <Jill></Jill>
-    <Mary></Mary>
-    <Stacy></Stacy>
+    <John weight=1></John>
+    <Jill weight=1></Jill>
+    <Mary weight=1></Mary>
+    <Stacy weight=3></Stacy>
   </name>
 </full>

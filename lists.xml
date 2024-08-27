@@ -2,9 +2,11 @@
   <races>
     <Alien></Alien>
     <Human></Human>
+    <Cyborg></Cyborg>
   </races>
   <names>
     <John></John>
     <Jill></Jill>
+    <Mary></Mary>
   </names>
 </full>

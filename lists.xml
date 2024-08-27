@@ -1,7 +1,7 @@
 <full>
   <race para="true">
     <Alien weight=3></Alien>
-    <Huma weight=3></Human>
+    <Human weight=3></Human>
     <Cyborg weight=5></Cyborg>
   </race>
   <name para="true">

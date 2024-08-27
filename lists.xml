@@ -1,13 +1,13 @@
 <full>
-  <races>
+  <race para="true">
     <Alien></Alien>
     <Human></Human>
     <Cyborg></Cyborg>
-  </races>
-  <names>
+  </race>
+  <name para="true">
     <John></John>
     <Jill></Jill>
     <Mary></Mary>
     <Stacy></Stacy>
-  </names>
+  </name>
 </full>

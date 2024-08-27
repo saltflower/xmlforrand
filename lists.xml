@@ -1,10 +1,10 @@
 <full>
   <races>
-    <race name="Alien"></race>
-    <race name="Human"></race>
+    <Alien></Alien>
+    <Human></Human>
   </races>
   <names>
-    <name name="John"></name>
-    <name name="Jill"></name>
+    <John></John>
+    <Jill></Jill>
   </names>
 </full>

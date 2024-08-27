@@ -17,5 +17,6 @@
       <scheming weight="20"></scheming>
       <supplicating weight="20"></supplicating>
       <enigmatic weight="10"></enigmatic>
-      <hostile weight="10"></hostile>   
+      <hostile weight="10"></hostile>  
+  </attitude> 
 </full>

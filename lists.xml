@@ -11,11 +11,11 @@
     <Stacy weight="3"></Stacy>
   </name>
   <attitude para="true">
-      <friendly weight=50></friendly>
-      <indifferent weight=20></indifferent>
-      <mercantile weight=20></mercantile>
-      <scheming weight=20></scheming>
-      <supplicating weight=20></supplicating>
-      <enigmatic weight=10></enigmatic>
-      <hostile weight=10></hostile>   
+      <friendly weight="50"></friendly>
+      <indifferent weight="20"></indifferent>
+      <mercantile weight="20"></mercantile>
+      <scheming weight="20"></scheming>
+      <supplicating weight="20"></supplicating>
+      <enigmatic weight="10"></enigmatic>
+      <hostile weight="10"></hostile>   
 </full>

@@ -4,12 +4,16 @@
     <Human weight="3"></Human>
     <Cyborg weight="5"></Cyborg>
   </race>
-  <name para="true">
-    <John weight="1"></John>
-    <Jill weight="1"></Jill>
-    <Mary weight="1"></Mary>
-    <Stacy weight="3"></Stacy>
-  </name>
+  <form para="true">
+    <biped weight="50"></biped>
+    <bi-modal weight="20"></bi-modal>
+    <quadruped weight="10"></quadruped>
+    <segmented weight="10"></segmented>
+    <hexaped weight="5"></hexaped>
+    <asymmetric weight="5"></asymmetric>
+    <radial weight="5"></radial>
+    <gestalt weight="5"></gestalt>
+  </form>
   <attitude para="true">
       <friendly weight="50"></friendly>
       <indifferent weight="20"></indifferent>

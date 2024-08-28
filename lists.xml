@@ -1,9 +1,32 @@
 <full>
-  <race para="true">
-    <Alien weight="3"></Alien>
-    <Human weight="3"></Human>
-    <Cyborg weight="5"></Cyborg>
-  </race>
+  <species para="true">
+    <Human weight="80"></Human>
+    <NearHuman weight="30"></NearHuman>
+    <ApexHerbivore weight="20"></ApexHerbivore>
+    <SocialHerbivore weight="20"></SocialHerbivore>
+    <SocialOmnivore weight="10"></SocialOmnivore>
+    <SolitaryPredator weight="10"></SolitaryPredator>
+    <SoloHerbivore weight="10"></SoloHerbivore>
+    <ApexOmnivore weight="5"></ApexOmnivore>
+    <ApexPredator weight="5"></ApexPredator>
+    <Aviform weight="5"></Aviform>
+    <Commensual weight="5"></Commensual>
+    <SwarmHerbivore weight="5"></SwarmHerbivore>
+    <SocialFilter weight="4"></SocialFilter>
+    <Mechanical weight="3"></Mechanical>
+    <SoloOmnivore weight="3"></SoloOmnivore>
+    <SoloPredator weight="3"></SoloPredator>
+    <SwarmOmnivore weight="3"></SwarmOmnivore>
+    <SwarmPredator weight="3"></SwarmPredator>
+    <ApexFilter weight="2"></ApexFilter>
+    <Mollusk weight="2"></Mollusk>
+    <Photophyte weight="2"></Photophyte>
+    <SoloFilter weight="2"></SoloFilter>
+    <SwarmFilter weight="2"></SwarmFilter>
+    <Saprophyte weight="1"></Saprophyte>
+    <SoloEctophyte weight="1"></SoloEctophyte>
+    <Thermophage weight="1"></Thermophage>
+  </species>
   <name para="true">
     <John weight="1"></John>
     <Jill weight="1"></Jill>
